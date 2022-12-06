@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/extraframeconverter/extraframeconverter.iml" filepath="$PROJECT_DIR$/extraframeconverter/extraframeconverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpserver/httpserver.iml" filepath="$PROJECT_DIR$/httpserver/httpserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javabanner/javabanner.iml" filepath="$PROJECT_DIR$/javabanner/javabanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messagemonitor/messagemonitor.iml" filepath="$PROJECT_DIR$/messagemonitor/messagemonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mibbrowser/mibbrowser.iml" filepath="$PROJECT_DIR$/mibbrowser/mibbrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.ballad.javaapp.iml" filepath="$PROJECT_DIR$/org.ballad.javaapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/samples/samples.iml" filepath="$PROJECT_DIR$/samples/samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selog/selog.iml" filepath="$PROJECT_DIR$/selog/selog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swing/swing.iml" filepath="$PROJECT_DIR$/swing/swing.iml" />
+    </modules>
+  </component>
+</project>
