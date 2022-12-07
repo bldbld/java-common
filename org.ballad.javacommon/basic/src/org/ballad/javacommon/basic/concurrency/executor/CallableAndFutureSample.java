@@ -1,6 +1,3 @@
-/**
- * 
- */
 package org.ballad.javacommon.basic.concurrency.executor;
 
 import java.util.concurrent.*;
@@ -40,7 +37,6 @@ public class CallableAndFutureSample {
 
 		System.out.println("所有任务执行完毕");
 	}
-
 }
 
 class SampleThread implements Callable<Integer> {

@@ -9,20 +9,12 @@
     <file url="file://$PROJECT_DIR$/javabanner/src/org/ballad/javabanner/JavaBanner.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/javabanner/src/org/ballad/javabanner/Letter.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/main/MainFrame.form" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/main/MainFrame.form" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/main/MainFrame.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/main/MainFrame.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/main/MessageFilter.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/main/MessageFilter.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/p2p/P2PServer.form" charset="GBK" />
     <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/p2p/P2PServer.form" charset="GBK" />
     <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/p2p/P2PServer.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/p2p/P2PServer.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/test/P2PServer.form" charset="GBK" />
     <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/test/P2PServer.form" charset="GBK" />
     <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/test/P2PServer.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/test/P2PServer.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/test/Server.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/messagemonitor/src/org/ballad/messagemonitor/test/Server.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/mibbrowser/src/org/ballad/mibbrowser/Main.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/mibbrowser/src/org/ballad/mibbrowser/MainFrame.form" charset="GBK" />
@@ -31,12 +23,9 @@
     <file url="file://$PROJECT_DIR$/mibbrowser/src/org/ballad/mibbrowser/OpenFile.form" charset="GBK" />
     <file url="file://$PROJECT_DIR$/mibbrowser/src/org/ballad/mibbrowser/OpenFile.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/selog/src/selog/BasicLogger.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/selog/src/selog/BasicLogger.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/selog/src/selog/LogSupport.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/selog/src/selog/LogSupport.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/selog/src/selog/Logger.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/selog/src/selog/Logger.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/selog/src/selog/test/SeLogTest.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/selog/src/selog/test/SeLogTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/swing/src/org/ballad/javacommon/swingapp/calc/Main.java" charset="GBK" />
   </component>
 </project>
