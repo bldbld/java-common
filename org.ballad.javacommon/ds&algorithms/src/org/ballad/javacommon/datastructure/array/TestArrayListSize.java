@@ -12,8 +12,6 @@ import java.util.List;
  */
 public class TestArrayListSize {
 
-
-
 	public static void main(String[] args) {
 		List<String> list1 = new ArrayList<String>(5);
 		list1.add("valueA");
@@ -21,15 +19,5 @@ public class TestArrayListSize {
 
 		// 在此处增加断点，会显示出list1的elementData数组为5
 		System.out.println(list1.size());
-		
-		
-	}
-	
-	public void fooa(){
-		
-	}
-	
-	public int  foos(){
-		return 3;
 	}
 }
