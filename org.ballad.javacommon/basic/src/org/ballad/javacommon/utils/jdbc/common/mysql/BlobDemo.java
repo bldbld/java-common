@@ -1,4 +1,4 @@
-package org.ballad.javacommon.basic.jdbc.common.mysql;
+package org.ballad.javacommon.utils.jdbc.common.mysql;
 
 import java.io.*;
 import java.sql.*;

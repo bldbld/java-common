@@ -1,4 +1,4 @@
-package org.ballad.javacommon.basic.jdbc.common;
+package org.ballad.javacommon.utils.jdbc.common;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

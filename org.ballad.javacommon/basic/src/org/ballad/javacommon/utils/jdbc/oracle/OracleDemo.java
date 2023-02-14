@@ -1,4 +1,4 @@
-package org.ballad.javacommon.basic.jdbc.oracle;
+package org.ballad.javacommon.utils.jdbc.oracle;
 
 import java.io.IOException;
 import java.sql.*;

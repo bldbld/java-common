@@ -1,4 +1,4 @@
-package org.ballad.javacommon.basic.dbf;
+package org.ballad.javacommon.utils.dbf;
 
 import com.linuxense.javadbf.DBFDataType;
 import com.linuxense.javadbf.DBFField;
@@ -22,12 +22,12 @@ public class DbfInsertSample {
         try {
 //            DbfWriterAndReadUtil.createDbf("b.dbf", fieldList, "GBK");
 //            DbfWriterAndReadUtil.writeDbf("b.dbf", rowList, "GBK");
-            String[] fieldName = DbfInsertSample.getFieldName("b.dbf", "GBK");
+            String[] fieldName = DbfInsertSample.getFieldName("DbfInsertSample.dbf", "GBK");
             for (int i = 0; i < fieldName.length; i++) {
                 System.out.println(fieldName[i]);
             }
 
-            List<Map<String, String>> getRowList = DbfInsertSample.readDbf("b.dbf", "GBK");
+            List<Map<String, String>> getRowList = DbfInsertSample.readDbf("DbfInsertSample.dbf", "GBK");
             for (Map<String, String> entity : getRowList) {
                 System.out.println(entity);
             }

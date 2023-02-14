@@ -1,4 +1,4 @@
-package org.ballad.javacommon.basic.jdbc.test;
+package org.ballad.javacommon.utils.jdbc.test;
 
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;

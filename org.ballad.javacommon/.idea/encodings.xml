@@ -31,18 +31,6 @@
     <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/concurrency/thread/AtomicTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/concurrency/thread/SyncTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/concurrency/thread/ThreadTest.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/common/DBInfo.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/common/DBInfoPrinter.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/common/mysql/25812956211141.jpg" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/common/mysql/25812956211141.jpg" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/common/mysql/BlobDemo.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/common/mysql/BlobDemo.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/common/mysql/MysqlDemo.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/common/mysql/MysqlDemo.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/common/mysql/out.jpg" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/common/mysql/out.jpg" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/oracle/OracleDemo.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/jdbc/test/GetDBInfo.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/net/socket/SocketClinet.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/net/socket/SocketServer.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/net/tcp/TcpClient.java" charset="GBK" />
@@ -63,6 +51,22 @@
     <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/swing/common/SwingTest1.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/swing/common/TabbedPaneTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/basic/swing/sample/Racing.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/DBInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/DBInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/DBInfoPrinter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/DBInfoPrinter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/mysql/25812956211141.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/mysql/25812956211141.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/mysql/BlobDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/mysql/BlobDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/mysql/MysqlDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/mysql/MysqlDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/mysql/out.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/common/mysql/out.jpg" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/oracle/OracleDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/oracle/OracleDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/test/GetDBInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/basic/src/org/ballad/javacommon/utils/jdbc/test/GetDBInfo.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/designpattern/src/org/ballad/javacommon/designpattern/about/AboutDesignPattern.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/designpattern/src/org/ballad/javacommon/designpattern/adapter/pegsample/PegAdapter.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/designpattern/src/org/ballad/javacommon/designpattern/adapter/pegsample/RoundPeg.java" charset="GBK" />
