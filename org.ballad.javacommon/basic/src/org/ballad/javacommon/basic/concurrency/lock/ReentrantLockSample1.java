@@ -26,6 +26,9 @@ public class ReentrantLockSample1 {
 		Lock lock = new ReentrantLock(false);
 		lock.lock();
 		try {
+			if(lock.tryLock()){
+				System.out.println("Get Lock");
+			}
 			// update object state
 		} finally {
 			lock.unlock();
